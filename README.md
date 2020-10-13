@@ -3,4 +3,4 @@ Hi! My name is Nicholas (Nicbo). I am in college for computer programming. I lea
 
 ### Discord
 - Tag: Nicbo#9999
-- Server: https://discord.gg/6zaQPu6
+- Server: https://discord.nicbo.ca
